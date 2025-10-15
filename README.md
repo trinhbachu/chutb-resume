@@ -4,13 +4,13 @@
 
 Another Resume Template using React, Tailwind CSS and Vite
 
-<a href='https://github.com/webeetle/resume-react-app/generate'><img src='https://img.shields.io/badge/-Using this repo as Template-informational?style=for-the-badge&color=2867B2' /></a>
+<a href='https://github.com/trinhbachu/chutb-resume/generate'><img src='https://img.shields.io/badge/-Using this repo as Template-informational?style=for-the-badge&color=2867B2' /></a>
 
 </div>
 
 ## See it
 
-<a href='https://resume-template-six.vercel.app/'>Live Demo</a>
+<a href='https://github.com/trinhbachu/chutb-resume'>Live Demo</a>
 
 ## Getting Started (dev mode)
 
@@ -43,7 +43,3 @@ We love them!
 ### Comments?
 
 Let's hear them! (The nice ones please!)
-
-### Who we are?
-
-In case you're interested we are <a href='https://webeetle.com/'>@webeetle</a>
